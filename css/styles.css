@@ -195,7 +195,7 @@
 
 /* End Footer */
 
-/********** Large devices only **********/
+/********** Large devices only V3**********/
 @media (min-width: 1200px) {
     .container .jumbotron {
         background: url('../images/jumbotron_1200.jpg') no-repeat;
